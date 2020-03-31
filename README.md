@@ -1,2 +1,2 @@
-# esmaulhusna.github.io
-Esmaul-Husna memorization application website
+# evrenunal.github.io
+esma-ul husna memorization application
